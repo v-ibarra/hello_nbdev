@@ -4,6 +4,7 @@ topnav_title: hellonbdev
 site_title: hellonbdev
 company_name: Vibarra
 description: A tutorial for nbdev
+encoding: UTF-8
 # Set to false to disable KaTeX math
 use_math: true
 # Add Google analytics id if you have one and want to use it here
@@ -61,4 +62,3 @@ sidebars:
 
 theme: jekyll-theme-cayman
 baseurl: /hellonbdev/
-encoding: UTF-8
