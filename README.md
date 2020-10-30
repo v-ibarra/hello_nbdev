@@ -2,6 +2,11 @@
 > Tutorial nbdev
 
 
+```python
+%load_ext autoreload
+%autoreload 2
+```
+
 Programa de prueba
 
 ## Install
@@ -19,6 +24,28 @@ say_hello("Alex")
 
 
 
-    'Hello Alex!'
+    'Hello Alex!2'
+
+
+
+```python
+proportion (20,21)
+```
+
+
+
+
+    0.4878048780487805
+
+
+
+```python
+FtoCelsius (10)
+```
+
+
+
+
+    50.0
 
 
