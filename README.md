@@ -40,12 +40,23 @@ proportion (20,21)
 
 
 ```python
-FtoCelsius (10)
+FtoC (0)
 ```
 
 
 
 
-    50.0
+    32.0
+
+
+
+```python
+CtoF (32)
+```
+
+
+
+
+    0.0
 
 
